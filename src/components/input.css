@@ -1,0 +1,17 @@
+.input {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  flex-direction: column;
+
+  flex: 1;
+  background-color: black;
+  outline: 1px solid gray;
+  color: white;
+
+  padding: 0.5em;
+  font-weight: bold;
+  font-size: 1.4em;
+
+  min-height: 100px;
+}

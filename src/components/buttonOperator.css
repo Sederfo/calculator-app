@@ -1,0 +1,16 @@
+.buttonOperator {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: rgba(255, 255, 255, 0.75);
+  color: gray;
+  outline: 1px solid gainsboro;
+}
+
+.buttonOperator:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}

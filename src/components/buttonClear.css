@@ -1,0 +1,17 @@
+.buttonClear {
+  display: flex;
+  flex: 1;
+  height: 4em;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+  font-size: 1rem;
+  outline: 1px solid gray;
+  height: 4em;
+  background-color: whitesmoke;
+  outline: 1px solid gainsboro;
+}
+
+.buttonClear:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
